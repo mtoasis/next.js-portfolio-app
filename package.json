@@ -19,7 +19,9 @@
   "homepage": "https://github.com/mtoasis/next.js-portfolio-app#readme",
   "dependencies": {
     "next": "^9.5.3",
+    "nprogress": "^0.2.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.2.0"
   }
 }
