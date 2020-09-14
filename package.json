@@ -1,0 +1,25 @@
+{
+  "name": "next.js-portfolio-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtoasis/next.js-portfolio-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtoasis/next.js-portfolio-app/issues"
+  },
+  "homepage": "https://github.com/mtoasis/next.js-portfolio-app#readme",
+  "dependencies": {
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
